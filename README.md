@@ -37,7 +37,7 @@ pm2 start build/src/index.js
 
 In /config/settings.json, you can decide whether the web scraper should be started in headless mode.
 
-# -----
+---
 
 ## _German:_
 "Fuehrerschein-Termine-Badgodesberg" ist ein kleines Projekt, das ich aus persönlichem Interesse erstellt habe, um automatisch über freie Termine im Stadthaus Bad Godesberg benachrichtigt zu werden. Das Projekt verwendet einen Webscraper, um den Terminkalender der Webseite "https://termine.bonn.de/m/DLZ/extern/calendar/?uid=1f4c5347-ccf5-43c5-8325-5c5c4461d121" auf freie Termine zu prüfen.
